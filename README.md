@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @lopsal-1331, I'm a student at Carlos III University at Madrid. Coursing the Double Degree in Software Engineer and Business Administration and Direction.
-- 👀 I'm currently working as an investigator focusing on data fusion and AI in the GIAA, UC3M
-- 🌱 Python, Matlab, SQL, C, C++
-- 📫 How to reach me:
-    Email: andrea.lopsal.13@gmail.com
+# Hi, I’m @lopsal-1331
 
-<!---
-lopsal-1331/lopsal-1331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a student and researcher at **Carlos III University of Madrid (UC3M)**, currently pursuing a **Double Degree in Software Engineering and Business Administration**.
+
+**Research Interests:**  
+Currently involved in research at the **GIAA Group (UC3M)**, focusing on **data fusion, artificial intelligence, and related algorithms**.
+
+**Technical Skills:**  
+Python | MATLAB | SQL | C | C++ | HTML | Java Script | Jupyter 
+
+**Contact:**  
+Email: [andrea.lopsal.13@gmail.com](mailto:andrea.lopsal.13@gmail.com)
